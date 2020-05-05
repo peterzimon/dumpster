@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="125px" viewBox="0 0 122 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>envelope-back</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fi-export" transform="translate(-461.000000, -248.000000)" fill="#C5D2D9">
+            <path d="M464.952879,287.16442 L515.37485,250.171778 C519.321773,247.276074 524.678227,247.276074 528.62515,250.171778 L579.047121,287.16442 C581.53123,288.986915 583,291.892165 583,294.983278 L583,363.319619 C583,368.665946 578.687795,373 573.368421,373 L470.631579,373 C465.312205,373 461,368.665946 461,363.319619 L461,294.983278 C461,291.892165 462.46877,288.986915 464.952879,287.16442 Z" id="envelope-back"></path>
+        </g>
+    </g>
+</svg>
